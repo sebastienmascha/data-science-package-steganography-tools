@@ -6,8 +6,8 @@ authors = ["Sebastien Mascha <sebastien.mascha@gmail.com>, Thomas Le Couedic <th
 keywords = ["steganography", "computer-vision", "image"]
 readme = "README.md"
 license = "MIT"
-homepage = "https://github.com/sebastienmascha/package_name"
-repository = "https://github.com/sebastienmascha/package_name"
+homepage = "https://github.com/sebastienmascha/data-science-package-steganography-tools"
+repository = "https://github.com/sebastienmascha/data-science-package-steganography-tools"
 
 [tool.poetry.dependencies]
 python = ">=3.7,<4.0"
